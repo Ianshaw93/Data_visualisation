@@ -61,11 +61,14 @@ The histogram was overlayed with y co-ordinates for the emotions.  Conclusions:
  ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FIanshaw93%2FjeIPQhJm-F.png?alt=media&token=205c6cac-d6e0-41cb-9ad6-596400d4b400)
  
  
-Further Work and things I would change
+**Further Work and things I would change**
+
 •	The aim for the histograms was to have the x and y bars stacked on top of each other.
 •	The colour scheme for the final bubble chart would ideally be in a colour map without white; the colour bar would be located on the figure and the legend for the size scale would match the number of emotions.
 •	Greater study of the mean x and y co-ordinates to infer further trends.
-Things I learned
+
+**Things I learned**
+
 •	Bubble charts
 •	Colour maps
 •	Charting legends
