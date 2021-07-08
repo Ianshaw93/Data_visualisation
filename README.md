@@ -1,10 +1,8 @@
 **Emotional Data Data Visualisation**
 
-The anonymous emotional data was provided by Complete Coherence in CSV form, see snip of data below.
+The brief was to visualise the anonymous emotional csv data and be creative, see snip of original data below.
 
 ![image](https://user-images.githubusercontent.com/76686112/124918007-6b46a580-dfec-11eb-98e5-00e9521c9dbb.png)
-
-The brief was to visualise the data and be creative.
 
 The data was manipulated and visualised using Python.
 
