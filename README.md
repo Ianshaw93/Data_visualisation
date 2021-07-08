@@ -6,7 +6,7 @@ The brief was to visualise the anonymous emotional csv data and be creative, sni
 
 The data was manipulated and visualised using Python, see technical assessment below.
 
-**Initial Analyses**
+**Initial Analyses and Charts**
 
 Through eye balling data it was noted that positive emotions tended to -1 on the x axis.  There was not a clear correlation between y value and type of emotion; however it was thought perhaps it related to feeling introspective and extrospective which would affect whether the sympathetic or the parasympathetic nervous system were being used by the body.
 
