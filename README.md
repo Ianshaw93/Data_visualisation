@@ -1,4 +1,11 @@
-**Data Visualisation and Background**
+**Emotional Data Data Visualisation**
+The anonymous emotional data was provided by Complete Coherence in CSV form.
+
+The brief was to visualise the data and be creative.
+
+The data was manipulated and visualised using Python.
+
+**Initial Analyses**
 
 Through eye balling data it was noted that positive emotions tended to -1 on the x axis.  There was not a clear correlation between y value and type of emotion; however it was thought perhaps it related to feeling introspective and extrospective which would affect whether the sympathetic or the parasympathetic nervous system were being used by the body.
 
@@ -28,7 +35,7 @@ The graph contains less noise and infers more of a trend than the original scatt
 ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FIanshaw93%2Femz9sME2fo.png?alt=media&token=c63fab3e-85a2-4ff9-9dcd-b310085721ac)
 
 
-****Final Charts
+**Final Charts**
 
 (i)	Bubble Chart
 The second bubble chart was then colour coded in line with the occurrence of emotions.  The colour bar below was intended to appear in the figure, it shows the occurrence of the emotions (i.e. log_count):
