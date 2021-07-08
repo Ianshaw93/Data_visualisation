@@ -87,6 +87,8 @@ The histogram was overlayed with y co-ordinates for the emotions.  Conclusions:
 
 **Things I learned**
 
+*	Map function (mapping key of dictionary to column of dataframe - function: manipulate_dataframe)
+*	List comprehension (shorter syntax for creating a list from an exisitng list - see function: scatter_plot2)
 *	Bubble charts
 *	Colour maps
 *	Charting legends
