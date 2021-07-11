@@ -1,4 +1,4 @@
-**Emotional Data Data Visualisation**
+**Emotional Data Visualisation**
 
 The brief was to visualise the anonymous emotional csv data and be creative, snip of original data directly below.
 
